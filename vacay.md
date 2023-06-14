@@ -1,10 +1,10 @@
 # My vacation :cool_guy_emoji:
 
 ## *menu*
-1. Dates 
-2. Places
-3. Plans
-4. Comments
+1. [Dates](#dates) 
+2. [Places](#places)
+3. [Plans](#plans)
+4. [Comments](#comments)
 
 ## __Dates__ 
 
